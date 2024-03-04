@@ -2,7 +2,7 @@
   "basics": {
     "name": "Federico Giordano",
     "label": "Desarrollador Full Stack",
-    "image": "/public/logo-foto.png",
+    "image": "./logo-foto.png",
     "email": "federicogiordano36gmail.com",
     "phone": "",
     "url": "",
