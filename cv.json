@@ -114,10 +114,24 @@
       ]
     },
     {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "Net",
+      "level": "Avanzado",
+      "keywords": [
+        "framework", "MVC", "C#", "Backend", "Fullstack"
       ]
     },
     {
