@@ -135,8 +135,15 @@
         "Backend", "Desarrollo Web", "Diseño Responsive"
       ]
     },
+    
+    {
+      "name": "Bootstrap",
+      "level": "Avanzado",
+      "keywords": [
+        "Frontend", "Diseño Responsive", "Desarrollo Web"
+      ]
+    },
  
-
     {
       "name": "Git",
       "level": "Avanzado",
