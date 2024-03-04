@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Federico Giordano",
-    "label": "Full Stack Developer",
+    "label": "Desarrollador Full Stack",
     "image": "/public/logo-foto.png",
     "email": "federicogiordano36gmail.com",
     "phone": "",
@@ -86,6 +86,27 @@
   }],
   "skills": [
     {
+      "name": "Net",
+      "level": "Avanzado",
+      "keywords": [
+        "framework", "MVC", "C#", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "Master",
       "keywords": [
@@ -106,20 +127,7 @@
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Angular",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
+
     {
       "name": "Git",
       "level": "Avanzado",
@@ -127,13 +135,7 @@
         "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
-    {
-      "name": "Net",
-      "level": "Avanzado",
-      "keywords": [
-        "framework", "MVC", "C#", "Backend", "Fullstack"
-      ]
-    },
+  
     {
       "name": "GitHub",
       "level": "Avanzado",
@@ -166,46 +168,37 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Biblioteca WebApp",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Consumo de Api con backend en java, frontend en Angular y Bootstrap.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Grupo de estudio",
+        "Desarrollado con fines de aprendizaje",
+        "ISPC"
       ],
-      "url": "https://mars.codes"
+      "github": "https://github.com/esaracho/biblioteca-webapp"
     },
     {
-      "name": "AdventJS",
+      "name": "DeCompras",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Progrando con Android Studio.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Grupo de estudio",
+        "Desarrollado con fines de aprendizaje",
+        "ISPC"
       ],
-      "url": "https://adventjs.dev"
+      "github": "https://github.com/esaracho/deCompras"
     },
     {
-      "name": "Codember",
+      "name": "Canchitas",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Playground de código HTML, CSS y JavaScript.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Grupo de estudio",
+        "Desarrollado con fines de aprendizaje",
+        "ISPC"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "github": "https://github.com/flavioucp/canchitas.oficial"
     }
    
     
